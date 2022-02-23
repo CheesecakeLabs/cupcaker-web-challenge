@@ -1,0 +1,65 @@
+:root {
+  /* ##### Colors ####### */
+  /* Main Colors */
+  --color-white: #fff;
+  --color-white-light: #eeeeee;
+  --color-white-dark: #e5e5e5;
+
+  --color-black: #000;
+  --color-neutral-black: #100f0f;
+
+  --color-blue: #0341b6;
+  --color-green: #05c9bf;
+
+  --color-gray-light: #afafaf;
+  --color-gray-dark: #595959;
+
+  --color-alert-red: #d50000;
+
+  /**  ##### Typography ####### */
+  --font-family: 'Inter', sans-serif;
+  --font-style: normal;
+
+  --font-size-12xl: 4rem; /** 64px **/
+  --font-size-10xl: 2.75rem; /** 44px **/
+  --font-size-9xl: 2.5rem; /** 40px **/
+  --font-size-7xl: 2rem; /** 32px */
+  --font-size-4xl: 1.5rem; /**  24px */
+  --font-size-3xl: 1.375rem; /**  22px */
+  --font-size-2xl: 1.25rem; /**  20px */
+  --font-size-xl: 1.215rem; /**  18px */
+  --font-size-lg: 1rem; /**  16px */
+  --font-size-normal: 0.875rem; /** 14px */
+  --font-size-xsm: 0.75rem; /**  12px */
+
+  --font-weight-100: 100;
+  --font-weight-200: 200;
+  --font-weight-300: 300;
+  --font-weight-400: 400;
+  --font-weight-500: 500;
+  --font-weight-600: 600;
+  --font-weight-700: 700;
+  --font-weight-800: 800;
+  --font-weight-900: 900;
+
+  --line-height-default: 1.215rem; /**  18px */
+
+  --line-height-xs: 0.75rem; /**  12px */
+  --line-height-sm: 1rem; /**  16px */
+  --line-height-lg: 1.25rem; /**  20px */
+  --line-height-xl: 1.375rem; /**  22px */
+  --line-height-2xl: 1.5rem; /**  24px */
+  --line-height-5xl: 1.875rem; /**  30px */
+  --line-height-7xl: 2.25rem; /**  36px */
+  --line-height-10xl: 2.625rem; /**  42px */
+  --line-height-12xl: 3rem; /**  48px */
+  --line-height-14xl: 3.375rem; /**  54px */
+
+  --letter-space-default: 0.777778px; /**  18px */
+
+  --letter-space-xs: 0.3px; /**  12px */
+  --letter-space-sm: 0.75px; /**  14px */
+  --letter-space-lg: 1px; /**  20px */
+
+  --default-font-color: var(--color-grayish-dark);
+}

@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: var(--color-white-dark);
+  padding: 80px 160px;
+}
+
+.panel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  max-height: 600px;
+  margin-top: 8px;
+}
