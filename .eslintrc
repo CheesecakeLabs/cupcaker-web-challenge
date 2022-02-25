@@ -48,7 +48,9 @@
     {
       "files": ["**/*.tsx"],
       "rules": {
-        "react-hooks/exhaustive-deps": "off"
+        "react-hooks/exhaustive-deps": "off",
+        "@typescript-eslint/explicit-function-return-type": "off",
+         "no-console": "off",
       }
     }
   ]
